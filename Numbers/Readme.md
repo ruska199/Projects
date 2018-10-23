@@ -1,44 +1,44 @@
-</h1>Numbers</h1>
-</h3>Find PI to the Nth Digit</h3> - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+<p><b>Numbers</b></p>
+<p><p><b>Find PI to the Nth Digit</b> - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.</p>
 
-Find e to the Nth Digit - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
+<p><b>Find e to the Nth Digit</b> - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.</p>
 
-Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+<p><b>Fibonacci Sequence</b> - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.</p>
 
-Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+<p><b>Prime Factorization</b> - Have the user enter a number and find all Prime Factors (if there are any) and display them.</p>
 
-Next Prime Number - Have the program find prime numbers until the user chooses to stop asking for the next one.
+<p><b>Next Prime Number</b> - Have the program find prime numbers until the user chooses to stop asking for the next one.</p>
 
-Find Cost of Tile to Cover W x H Floor - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+<p><b>Find Cost of Tile to Cover W x H Floor</b> - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.</p>
 
-Mortgage Calculator - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).
+<p><b>Mortgage Calculator</b> - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).</p>
 
-Change Return Program - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+<p><b>Change Return Program</b> - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.</p>
 
-Binary to Decimal and Back Converter - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+<p><b>Binary to Decimal and Back Converter</b> - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.</p>
 
-Calculator - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
+<p><b>Calculator</b> - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.</p>
 
-Unit Converter (temp, currency, volume, mass and more) - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
+<p><b>Unit Converter (temp, currency, volume, mass and more)</b> - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.</p>
 
-Alarm Clock - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
+<p><b>Alarm Clock</b> - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.</p>
 
-Distance Between Two Cities - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+<p><b>Distance Between Two Cities</b> - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.</p>
 
-Credit Card Validator - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+<p><b>Credit Card Validator</b> - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).</p>
 
-Tax Calculator - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+<p><b>Tax Calculator</b> - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.</p>
 
-Factorial Finder - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
+<p><b>Factorial Finder</b> - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.</p>
 
-Complex Number Algebra - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
+<p><b>Complex Number Algebra</b> - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.</p>
 
-Happy Numbers - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Display an example of your output here. Find first 8 happy numbers.
+<p><b>Happy Numbers</b> - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Display an example of your output here. Find first 8 happy numbers.</p>
 
-Number Names - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).
+<p><b>Number Names</b> - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).</p>
 
-Coin Flip Simulation - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
+<p><b>Coin Flip Simulation</b> - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.</p>
 
-Limit Calculator - Ask the user to enter f(x) and the limit value, then return the value of the limit statement Optional: Make the calculator capable of supporting infinite limits.
+<p><b>Limit Calculator</b> - Ask the user to enter f(x) and the limit value, then return the value of the limit statement Optional: Make the calculator capable of supporting infinite limits.</p>
 
-Fast Exponentiation - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.
+<p><b>Fast Exponentiation</b> - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.</p>
